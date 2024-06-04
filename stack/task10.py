@@ -1,6 +1,6 @@
 res = []
 
-
+# https://leetcode.com/problems/generate-parentheses/description/
 def dfs(open, close, s, n):
     if len(s) == 2 * n:
         res.append(s)

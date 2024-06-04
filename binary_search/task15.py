@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/binary-search/description/
+# BINARY SEARCH
 def solution(nums, target):
     l = 0
     r = len(nums) - 1

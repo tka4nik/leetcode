@@ -10,6 +10,7 @@
 #             current += 1
 #     print(res)
 
+# https://leetcode.com/problems/daily-temperatures/description/
 def solution(nums):
     res = [0] * len(nums)
     stack = []

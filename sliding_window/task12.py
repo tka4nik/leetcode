@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 def solution(nums):
     if not nums:
         return 0

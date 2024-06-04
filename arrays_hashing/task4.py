@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/product-of-array-except-self/description/
 def solution(nums):
     # Prefix and suffix mult
     prefix_mult = [0]*len(nums)

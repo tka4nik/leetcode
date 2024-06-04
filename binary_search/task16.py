@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/koko-eating-bananas/description/
 def solution(nums, h):
     def condition(k, nums, h):
         bananas = nums.copy()

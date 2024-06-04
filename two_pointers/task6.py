@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/valid-palindrome/description/
 def solution(str):
     str = [i for i in str.strip().lower() if i.isalnum()]
 

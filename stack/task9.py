@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/valid-parentheses/description/
 def solution(str):
     stack = []
     for char in str:
